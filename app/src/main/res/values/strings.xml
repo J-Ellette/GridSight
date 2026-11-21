@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GridSight</string>
+    <string name="nav_map">MAP HUD</string>
+    <string name="nav_profiler">PROFILER</string>
+    <string name="nav_biometrics">BIOMETRICS</string>
+    <string name="nav_comms">E2EE COMMS</string>
+    <string name="hud_scan_active">ACTIVE SCAN</string>
+    <string name="hud_scan_standby">STANDBY</string>
+    <string name="hud_e2ee_locked">AES-256-GCM // ECDH P-256</string>
+    <string name="hud_offline_ready">OFFLINE DB READY</string>
+    <string name="action_scan_now">SCAN SENSORS</string>
+    <string name="action_fetch_civic">QUERY VICINITY NODES</string>
+    <string name="action_share_intel">SHARE E2EE INTEL</string>
+    <string name="action_open_comms">ENCRYPTED COMMS</string>
+    <string name="action_pin_map">PIN TO OFFLINE MAP</string>
+    <string name="perm_rationale_sensors">Bluetooth, Wi-Fi, and Location permissions allow real-time RF sensor detection and local civic hotspot/camera lookup.</string>
+    <string name="perm_grant_button">AUTHORIZE SENSORS</string>
+</resources>

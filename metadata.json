@@ -1,0 +1,6 @@
+{
+  "name": "GridSight",
+  "description": "Tactical RF sensor scanner, offline-first urban infrastructure map, and end-to-end encrypted peer coordination HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
